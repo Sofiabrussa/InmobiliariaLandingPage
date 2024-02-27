@@ -16,7 +16,7 @@ export const CategoriasContainerStyled = styled.div `
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    gap: 80px;
+    gap: 40px;
 `
 
 export const CardCategoriaStyled = styled(motion.div) `
@@ -25,10 +25,11 @@ export const CardCategoriaStyled = styled(motion.div) `
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    width: 150px;
+    width: 200px;
     height: 100%;
     padding: 2rem 0.5rem;
     border-radius: 15px;
+    background-color: var(--gray-bg);
     cursor: pointer;
     h2 {
         font-size: 1rem;

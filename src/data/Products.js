@@ -4,7 +4,7 @@ export const products = [
 		title: "Monoambiente Alquiler",
 		img: "https://i.pinimg.com/564x/98/e5/61/98e561d8fefcff56e86921380c55b363.jpg",
 		desc: "Zona Nueva cordoba",
-		price: 150000,
+		price: "$150.000",
 		category: "Monoambientes",
 	},
 	{
@@ -12,7 +12,7 @@ export const products = [
 		title: "Monoambiente Venta",
 		img: "https://i.pinimg.com/564x/91/33/39/91333925f7edaa63a32334c4dd96ccce.jpg",
 		desc: "Zona Centro",
-		price: 130000,
+		price: "$130.000",
 		category: "Monoambientes",
 	},
 	{
@@ -20,7 +20,7 @@ export const products = [
 		title: "Monoambiente Alquiler",
 		img: "https://i.pinimg.com/564x/53/8c/c8/538cc86624c56b5265ecb052efd0bd60.jpg",
 		desc: "Zona Nueva Cordoba",
-		price: 250000,
+		price: "$250.000",
 		category: "Monoambientes",
 	},
 	{
@@ -28,15 +28,15 @@ export const products = [
 		title: "Casa Alquiler",
 		img: "https://i.pinimg.com/564x/15/03/d2/1503d2a6ebe212f2856d44991c516355.jpg",
 		desc: "Zona Cerro De Las Rosas",
-		price: 500000,
+		price: "$500.000",
 		category: "Casas",
 	},
 	{
 		id: 7,
-		title: "Casa Alquiler",
+		title: "Casa Venta",
 		img: "https://i.pinimg.com/564x/9b/76/2c/9b762c1ce1c7c8e95dedeba36e495a98.jpg",
 		desc: "El Bosque",
-		price: 1000000,
+		price: "$100.000" ,
 		category: "Casas",
 	},
 	{
@@ -44,7 +44,7 @@ export const products = [
 		title: "Casa Alquiler",
 		img: "https://i.pinimg.com/564x/60/8e/13/608e1389b28e6f1d6d9736e25e3de208.jpg",
 		desc: "La Rufina",
-		price: 750000,
+		price: "$750.000",
 		category: "Casas",
 	},
 	{
@@ -52,7 +52,7 @@ export const products = [
 		title: "Local Alquiler",
 		img: "https://i.pinimg.com/564x/0d/ea/50/0dea5060f8242e948920be9432c1a238.jpg",
 		desc: "Zona Villa Belgrano",
-		price: 110000,
+		price: "$110.000",
 		category: "Locales",
 	},
 	{
@@ -60,7 +60,7 @@ export const products = [
 		title: "Local Alquiler",
 		img: "https://i.pinimg.com/564x/cc/74/9a/cc749ae24c31378feb085a52f05e5821.jpg",
 		desc: "Zona Nueva Cordoba",
-		price: 180000,
+		price: "$180.000",
 		category: "Locales",
 	},
 	{
@@ -68,7 +68,7 @@ export const products = [
 		title: "Local Alquiler",
 		img: "https://i.pinimg.com/564x/89/97/e6/8997e6307f315ad336de4b69d9900eed.jpg",
 		desc: "Zona Centro",
-		price: 190000,
+		price: "$190.000",
 		category: "Locales",
 	},
 	{
@@ -76,7 +76,7 @@ export const products = [
 		title: "Local Alquiler",
 		img: "https://i.pinimg.com/736x/40/3a/16/403a166304ff12b22a695e7384e8c4ac.jpg",
 		desc: "Zona Luis de Tejeda",
-		price: 195000,
+		price: "$195.000",
 		category: "Locales",
 	},
 	{
@@ -84,7 +84,7 @@ export const products = [
 		title: "Terreno Venta",
 		img: "https://i.pinimg.com/736x/57/b5/db/57b5db04a54d60abd90efcbe9e988ae2.jpg",
 		desc: "Villa Maria",
-		price: 4400000,
+		price: "$4.400.000",
 		category: "Terrenos",
 	},
 	{
@@ -92,7 +92,7 @@ export const products = [
 		title: "Duplex Alquiler",
 		img: "https://i.pinimg.com/564x/18/23/2b/18232b2d6c4036ca05b515d1e98a0324.jpg",
 		desc: "Zona Recta Martinolli",
-		price: 300000,
+		price: "$300.000",
 		category: "Duplex",
 	},
 	{
@@ -100,7 +100,7 @@ export const products = [
 		title: "Duplex Venta",
 		img: "https://i.pinimg.com/564x/a6/20/5f/a6205f7aeb6869499bd912eb2006b04a.jpg",
 		desc: "Zona La Rufina",
-		price: 770000,
+		price: "$770.000",
 		category: "Duplex",
 	},
 	{
@@ -108,7 +108,7 @@ export const products = [
 		title: "Duplex alquiler",
 		img: "https://i.pinimg.com/564x/b4/12/28/b412280765772e13beec4f24881613f1.jpg",
 		desc: "Las delicias",
-		price: 1100000,
+		price: "$1.100.000",
 		category: "Duplex",
 	},
 	{
@@ -116,7 +116,7 @@ export const products = [
 		title: "Monoambiente Alquiler",
 		img: "https://i.pinimg.com/564x/a5/5b/bc/a55bbcd15847eab2385b9dad2e791dcb.jpg",
 		desc: "Zona Palermo",
-		price: 125000,
+		price: "$125.000",
 		category: "Monoambientes",
 	},
 	{
@@ -124,7 +124,7 @@ export const products = [
 		title: "Monoambiente Alquiler",
 		img: "https://i.pinimg.com/564x/81/e0/53/81e053b4578a7a8bfc8045ceb0363e98.jpg",
 		desc: "Zona Villa Belgrano",
-		price: 800000,
+		price: "$800.000",
 		category: "Monoambientes",
 	},
 ];
